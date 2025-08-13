@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20220321T103000Z
+DTEND:20220321T110000Z
+DTSTAMP:20220321T100812Z
+ORGANIZER;CN=saumya.grapelime@gmail.com:mailto:saumya.grapelime@gmail.com
+UID:2d2tetfuhmpjefcesjirk512lb@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=harikrishnan.grapelime@gmail.com;X-NUM-GUESTS=0:mailto:harikrishnan
+ .grapelime@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=saumya.grapelime@gmail.com;X-NUM-GUESTS=0:mailto:saumya.grapelime@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=rohitam561@gmail.com;X-NUM-GUESTS=0:mailto:rohitam561@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/awo-ntrp-dvj
+X-MICROSOFT-CDO-OWNERAPPTID:-25562396
+CREATED:20220321T100810Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/awo-ntrp-dvj\n\n
+ View your event at https://calendar.google.com/calendar/event?action=VIEW&e
+ id=MmQydGV0ZnVobXBqZWZjZXNqaXJrNTEybGIgcm9oaXRhbTU2MUBt&tok=MjYjc2F1bXlhLmd
+ yYXBlbGltZUBnbWFpbC5jb20zNGViNjhhZTA2NWE5MzQ4YWM5NjU1ZWYwOGU0Njg1YzhjNDczZT
+ Vj&ctz=Asia%2FKolkata&hl=en&es=1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220321T100811Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Second Round Interview - Rohith - Software Fresher
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
